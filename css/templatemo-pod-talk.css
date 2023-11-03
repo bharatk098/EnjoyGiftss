@@ -1218,23 +1218,23 @@ main {
 
 @media screen and (max-width: 480px) {
   h1 {
-    font-size: 36px;
+    font-size: 28px !important;
   }
 
   h2 {
-    font-size: 28px;
+    font-size: 21px !important;
   }
 
   h3 {
-    font-size: 26px;
+    font-size: 19px !important;
   }
 
   h4 {
-    font-size: 22px;
+    font-size: 19px !important;
   }
 
   h5 {
-    font-size: 20px;
+    font-size: 15px !important;
   }
 }
 

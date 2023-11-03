@@ -1217,6 +1217,20 @@ main {
 }
 
 @media screen and (max-width: 480px) {
+
+.hero-section {
+padding-top: 130px !important;
+}
+
+
+
+
+
+
+
+
+	
+	
   h1 {
     font-size: 28px !important;
   }
